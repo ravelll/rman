@@ -6,8 +6,8 @@ require 'rman/version'
 Gem::Specification.new do |spec|
   spec.name          = "rman"
   spec.version       = Rman::VERSION
-  spec.authors       = ["gs3"]
-  spec.email         = ["doub1e.31415@gmail.com"]
+  spec.authors       = ["ravelll"]
+  spec.email         = ["menchikats@gmail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
