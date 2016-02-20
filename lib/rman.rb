@@ -1,5 +1,5 @@
 require "rman/version"
+require "rman/cli"
 
 module Rman
-  # Your code goes here...
 end
